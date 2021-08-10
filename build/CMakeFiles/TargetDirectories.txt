@@ -1,0 +1,3 @@
+/home/pi/face_recognize_pi4/build/CMakeFiles/rebuild_cache.dir
+/home/pi/face_recognize_pi4/build/CMakeFiles/mxnet-insightface-cpp.dir
+/home/pi/face_recognize_pi4/build/CMakeFiles/edit_cache.dir
